@@ -30,7 +30,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ### Prerequisites
 
-*   **Java Development Kit (JDK)**: Version 21 or higher. You can download it from [Adoptium](https://adoptium.net/).
+*   **Java Development Kit (JDK)**: Version 21 or higher.
 *   **Git**: For cloning the repository.
 
 ### Cloning the Repository
@@ -38,10 +38,9 @@ To get this project up and running on your local machine, follow these steps:
 First, clone the repository to your local machine:
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/11-V-SriHarsha/IRCTC_Java-Gradle.git
 cd Java_IRCTC
 ```
-Replace `<your-github-repo-url>` with the actual URL of your GitHub repository.
 
 ### Building the Project
 
