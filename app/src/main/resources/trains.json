@@ -1,0 +1,22 @@
+[
+  {
+    "train_id": "T001",
+    "train_no": "12345",
+    "stations": ["Bengaluru", "Chennai", "Delhi"],
+    "station_times": {
+      "Bengaluru": "10:00 AM",
+      "Chennai": "03:00 PM",
+      "Delhi": "10:00 PM"
+    }
+  },
+  {
+    "train_id": "T002",
+    "train_no": "67890",
+    "stations": ["Mumbai", "Hyderabad", "Delhi"],
+    "station_times": {
+      "Mumbai": "08:00 AM",
+      "Hyderabad": "02:00 PM",
+      "Delhi": "08:00 PM"
+    }
+  }
+] 
