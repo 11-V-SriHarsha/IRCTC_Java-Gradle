@@ -18,5 +18,25 @@
       "Hyderabad": "02:00 PM",
       "Delhi": "08:00 PM"
     }
+  },
+  {
+    "train_id": "T003",
+    "train_no": "98765",
+    "stations": ["Kolkata", "Bhubaneswar", "Chennai"],
+    "station_times": {
+      "Kolkata": "06:00 AM",
+      "Bhubaneswar": "11:00 AM",
+      "Chennai": "06:00 PM"
+    }
+  },
+  {
+    "train_id": "T004",
+    "train_no": "11223",
+    "stations": ["Delhi", "Jaipur", "Ahmedabad"],
+    "station_times": {
+      "Delhi": "09:00 AM",
+      "Jaipur": "01:00 PM",
+      "Ahmedabad": "08:00 PM"
+    }
   }
 ] 
